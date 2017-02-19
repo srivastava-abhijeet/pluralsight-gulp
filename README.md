@@ -14,11 +14,14 @@ You've built your JavaScript application but how do you automate testing, code a
 - Open terminal
 - Type `npm install -g node-inspector bower gulp`
 
-## Quick Start
+## Prerequisite 
 Prior to taking the course, clone this repo and run the content locally
 ```bash
 $ npm install
 $ bower install
-$ npm start
 ```
-
+## Quick start 
+For running the app
+```bash
+$ gulp --serve-dev
+```
