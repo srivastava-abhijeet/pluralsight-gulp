@@ -25,3 +25,7 @@ For running the app
 ```bash
 $ gulp --serve-dev
 ```
+For listing all the task
+```bash
+$ gulp
+```
