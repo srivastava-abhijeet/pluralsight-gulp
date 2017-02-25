@@ -29,3 +29,7 @@ For listing all the task
 ```bash
 $ gulp
 ```
+
+### TODO
+
+- [ ] bootstrap.css is getting removed from index.html on running task serve-dev
